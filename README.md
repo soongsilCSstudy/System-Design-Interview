@@ -18,3 +18,4 @@
 
 ### 2월 25일 스터디
 * [정한 스터디 자료](https://wobbly-smell-e1c.notion.site/2-8a53e7c37a734c3ca46b038355a0d101)
+* [종훈 스터디 자료](https://jealous-texture-9af.notion.site/8f14ceef4b214b6c950aada4c46b61cd)
